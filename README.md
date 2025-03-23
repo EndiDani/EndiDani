@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="center">Computer Science student. In love with clean, efficient code.</h3>
+<h3 align="center">CompSci student. In love with clean, efficient code.</h3>
 
 ###
 
